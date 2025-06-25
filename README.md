@@ -1,11 +1,13 @@
 Tasca S1.06 – Genèrics  
 Autor: Carlos de Cózar
-"//
+
+```text
 //=============================\
 || Crafted with 💛 by Carlos ||
 ||    and approved by 🦆     ||
 \=============================//
-"//
+```
+
 Descripción general  
 Proyecto enfocado en el uso de métodos genéricos y wildcards en Java. Cada ejercicio demuestra la versatilidad de los genéricos, su aplicabilidad en métodos reutilizables y la capacidad para aceptar distintos tipos de datos, reforzando principios de tipado seguro y reutilización de código.
 
@@ -35,11 +37,12 @@ Aprendizajes clave
 - Flexibilidad en los tipos de argumentos  
 - Uso de wildcards (`<?>`) y varargs  
 - Comprensión del tipado en tiempo de compilación  
-- Buenas prácticas de diseño modular y reutilizable  
-"//
+- Buenas prácticas de diseño modular y reutilizable
+
+```text
 //=============================\
 || Crafted with 💛 by Carlos ||
 ||    and approved by 🦆     ||
 \=============================//
-"//
+```
 github.com/carlosPc1987
