@@ -14,14 +14,14 @@ Tecnología utilizada
 - IntelliJ IDEA  
 - Git  
 
-Estructura por niveles
+Estructura por niveles  
 
-| Nivell | Exercici | Descripción breve |
-|--------|----------|-------------------|
-| 1      | 1        | Clase `NoGenericMethods` con tres argumentos del mismo tipo y métodos de acceso |
+| Nivell | Exercici | Descripción breve                                                                             |
+|--------|----------|-----------------------------------------------------------------------------------------------|
+| 1      | 1        | Clase `NoGenericMethods` con tres argumentos del mismo tipo y métodos de acceso               |
 |        | 2        | Clase `GenericMethods` con un método genérico que imprime tres parámetros de tipos distintos |
-| 2      | 1        | Modificación del método genérico con uno de los argumentos no genérico |
-|        | 2        | Uso de varargs genéricos con tipos indefinidos (wildcards) |
+| 2      | 1        | Modificación del método genérico con uno de los argumentos no genérico                        |
+|        | 2        | Uso de varargs genéricos con tipos indefinidos (wildcards)                                    |
 
 Ejecución del proyecto  
 1. Clonar el repositorio  
